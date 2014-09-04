@@ -14,4 +14,4 @@ RUN zypper in -y lsb-release docbook_4 docbook-xsl-stylesheets
 
 
 # Always start kiwi
-ENTRYPOINT ["/bin/bash"]
+# ENTRYPOINT ["/bin/bash"]
